@@ -1,7 +1,7 @@
 <?php
 
 //Rotas do Usuario
-function routeUser($method, $url, $auth)
+function routeUser($method, $url, $auth)    
 {
     $result = null;
     //Rotas Autenticadas
